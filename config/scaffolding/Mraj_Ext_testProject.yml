@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Mraj_Ext_testProject
+  gitServerName: mraj_tets
+  gitUrl: https://github.com/MeghaRaj31
+  gitUsername: MeghaRaj31
+  gitBranch: main
